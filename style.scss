@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+main{
+    text-align: center;
+    input{
+        margin: 30px auto 0;
+    }
+    section{
+        margin: 15px;
+        button{
+            margin: 2px;
+            padding: 15px;
+        }
+    }
+}
