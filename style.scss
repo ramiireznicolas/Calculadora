@@ -6,7 +6,7 @@
 
 h1 {
   text-align: center;
-  margin-top: 20px;
+  margin: 20px auto 5px;
 }
 
 main {
@@ -15,11 +15,13 @@ main {
   border-radius: 20px;
   max-width: 325px;
   margin: auto;
-  background-color: #707070;
+  background-color: #868686;
 
   input {
     margin: 30px auto 0;
     font-size: 1.3em;
+    border-radius: 5px;
+    padding: 3px;
   }
 
   section {
